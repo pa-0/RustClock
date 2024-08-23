@@ -1,14 +1,23 @@
-# Rust Clock 
+<div align="center">
+
+![icon](./assets/icon.png) 
+
+# `Rust_Clock` 
 [![license](https://img.shields.io/badge/license-MIT-red.svg)](https://github.com/hoothin/RustClock/releases/tag/0.1.5) [![download](https://img.shields.io/github/downloads/hoothin/RustClock/total)](https://github.com/hoothin/RustClock/releases/tag/0.1.5)
 
-Clock popup every half hour. 
-
-
-## Build 
-
-_Dependencies:_ [rust](https://github.com/rust-lang/rust) **|** [egui](https://github.com/emilk/egui/) **|** [rodio](https://github.com/RustAudio/rodio) **|** [tray-icon](https://github.com/tauri-apps/tray-icon) **|** [chrono](https://github.com/chronotope/chrono) **|** [rust-ini](https://github.com/zonyitoo/rust-ini)
+Customizable Popup Clock with Countdown and Audible Alert Functions<br>frequency, duration, appearance, and sound configurable
 
 ![example](pic.gif)
+
+</div>
+
+## Built with:
+
+<div align="center">
+  
+[rust](https://github.com/rust-lang/rust) **|** [egui](https://github.com/emilk/egui/) **|** [rodio](https://github.com/RustAudio/rodio) **|** [tray-icon](https://github.com/tauri-apps/tray-icon) **|** [chrono](https://github.com/chronotope/chrono) **|** [rust-ini](https://github.com/zonyitoo/rust-ini)
+
+</div>
 
 ## Install
 
@@ -28,7 +37,7 @@ _Delete `#` to uncomment optional configurations._
 
 1. [time](#time)
 2. [sound](#sound)
-3. [countdown 倒計時](#countdown)
+3. [countdown](#countdown)
 4. [pos](#pos)
 5. [color](#color)
 6. [show_time](#show_time)
