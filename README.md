@@ -15,7 +15,7 @@ Customizable Popup Clock with Countdown and Audible Alert Functions<br>frequency
 
 <div align="center">
   
-[rust](https://github.com/rust-lang/rust) **|** [egui](https://github.com/emilk/egui/) **|** [rodio](https://github.com/RustAudio/rodio) **|** [tray-icon](https://github.com/tauri-apps/tray-icon) **|** [chrono](https://github.com/chronotope/chrono) **|** [rust-ini](https://github.com/zonyitoo/rust-ini)
+[rust](https://github.com/rust-lang/rust) &nbsp;&nbsp;&nbsp;&nbsp; **|** &nbsp;&nbsp;&nbsp;&nbsp; [egui](https://github.com/emilk/egui/) &nbsp;&nbsp;&nbsp;&nbsp; **|** &nbsp;&nbsp;&nbsp;&nbsp; [rodio](https://github.com/RustAudio/rodio) &nbsp;&nbsp;&nbsp;&nbsp; **|** &nbsp;&nbsp;&nbsp;&nbsp; [tray-icon](https://github.com/tauri-apps/tray-icon) &nbsp;&nbsp;&nbsp;&nbsp; **|** &nbsp;&nbsp;&nbsp;&nbsp; [chrono](https://github.com/chronotope/chrono) &nbsp;&nbsp;&nbsp;&nbsp; **|** &nbsp;&nbsp;&nbsp;&nbsp; [rust-ini](https://github.com/zonyitoo/rust-ini)
 
 </div>
 
